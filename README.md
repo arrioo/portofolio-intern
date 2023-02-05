@@ -21,4 +21,24 @@ Landing page:
 login page:
 ![image](https://user-images.githubusercontent.com/74399380/178110591-c39f0d4a-5d2e-47de-b56d-ffd743e55698.png)
 
+<hr>
 <h1> PT. Baracipta Esa Engineering </h1>
+
+Tenderplus.id
+Homepage
+![image](https://user-images.githubusercontent.com/74399380/216837010-687d494f-10a3-4022-a3be-f183f60b9993.png)
+
+List Tender
+![image](https://user-images.githubusercontent.com/74399380/216837040-d3c00ff7-21b4-459d-a8d9-0e6291450f96.png)
+
+Detail Tender
+![image](https://user-images.githubusercontent.com/74399380/216837172-a78a30e3-92f8-4047-b13c-6c2d5ee80cfd.png)
+
+Daftar
+![image](https://user-images.githubusercontent.com/74399380/216837061-f6f5ee48-2bca-47d5-a1a7-0afdb718bbca.png)
+
+Login
+![image](https://user-images.githubusercontent.com/74399380/216837079-2c9e3956-ac06-43b7-b026-7d66b8b99447.png)
+
+Dashboard User
+![image](https://user-images.githubusercontent.com/74399380/216837207-b4333c8c-c84f-4461-95a6-4649f223594b.png)
